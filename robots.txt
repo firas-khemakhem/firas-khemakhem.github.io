@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://firas-khemakhem.github.io/sitemap.xml
